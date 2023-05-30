@@ -1,4 +1,4 @@
-https://github.com/jonasermert/GitHubSearch/blob/daaba3e93ea17c22288638515ec802dbe1a7ed22/images/logo.jpg
+![alt text](http://url/to/img.png)
 
 The project "GitHubSearch" is an open source application developed to facilitate the search for GitHub repositories. The project's code is available on GitHub and can be downloaded, adapted and extended by developers.
 
