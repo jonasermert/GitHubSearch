@@ -1,4 +1,4 @@
-![Logo]([images/logo.jpg))
+![Logo]([images/logo.jpg)
 
 The project "GitHubSearch" is an open source application developed to facilitate the search for GitHub repositories. The project's code is available on GitHub and can be downloaded, adapted and extended by developers.
 
