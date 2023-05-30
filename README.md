@@ -1,3 +1,5 @@
+https://github.com/jonasermert/GitHubSearch/blob/daaba3e93ea17c22288638515ec802dbe1a7ed22/images/logo.jpg
+
 The project "GitHubSearch" is an open source application developed to facilitate the search for GitHub repositories. The project's code is available on GitHub and can be downloaded, adapted and extended by developers.
 
 The main function of the project is to provide a user interface that allows users to search GitHub for repositories. The application allows users to send search queries to the GitHub search API and clearly display the results.
