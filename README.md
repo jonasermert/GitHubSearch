@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![Logo]([http://url/to/img.png](https://github.com/jonasermert/GitHubSearch/blob/744d02de21fcdf43a38af6623cd56876d2df0f2d/images/logo.jpg))
 
 The project "GitHubSearch" is an open source application developed to facilitate the search for GitHub repositories. The project's code is available on GitHub and can be downloaded, adapted and extended by developers.
 
